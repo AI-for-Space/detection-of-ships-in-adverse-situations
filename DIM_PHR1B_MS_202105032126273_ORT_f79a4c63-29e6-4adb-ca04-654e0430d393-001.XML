@@ -93,24 +93,7 @@
         </Dataset_Extent>
     </Dataset_Content>
     <Product_Information>
-        <Producer_Information>
-            <PRODUCER_NAME>AIRBUS DS GEO</PRODUCER_NAME>
-            <PRODUCER_URL href="http://www.geo-airbusds.com"></PRODUCER_URL>
-            <PRODUCER_CONTACT>contact@geo-airbus.com</PRODUCER_CONTACT>
-            <PRODUCER_ADDRESS>5 rue des Satellites - BP 14359 - F 31030 Toulouse Cedex 4 - France</PRODUCER_ADDRESS>
-        </Producer_Information>
-        <Delivery_Identification>
-            <PRODUCTION_DATE>2021-05-12T07:21:09.000Z</PRODUCTION_DATE>
-            <JOB_ID>f79a4c63-29e6-4adb-ca04-654e0430d393001</JOB_ID>
-            <PRODUCT_CODE>PLEIADES</PRODUCT_CODE>
-            <DELIVERY_TYPE>NETWORK</DELIVERY_TYPE>
-            <Order_Identification>
-                <CUSTOMER_REFERENCE>d0d0b1aa-8177-4114-8b70-f1dc68448f12</CUSTOMER_REFERENCE>
-                <INTERNAL_REFERENCE></INTERNAL_REFERENCE>
-                <COMMERCIAL_REFERENCE>44c5e102-4465-47dc-99bb-3de83d613a99</COMMERCIAL_REFERENCE>
-                <COMMERCIAL_ITEM></COMMERCIAL_ITEM>
-            </Order_Identification>
-        </Delivery_Identification>
+        <! -- Información eliminada -->
     </Product_Information>
     <Coordinate_Reference_System>
         <Projected_CRS>
